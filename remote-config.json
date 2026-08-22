@@ -1,7 +1,7 @@
 {
-  "revision": 3,
-  "verdict": "hacked",
-  "flashColor": "#FFE2E4",
+  "revision": 4,
+  "verdict": "safe",
+  "flashColor": "#DDF7E7",
   "flashDurationMs": 3000,
-  "showWho": true
+  "showWho": false
 }
